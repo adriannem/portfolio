@@ -36,6 +36,10 @@ img.bottom_image{
     margin-right: 25px;
 }
 
+img.logo {
+    padding: 20px;
+}
+
 .col-1 {
     width: 8.33%;
 }
@@ -85,11 +89,15 @@ img.bottom_image{
 }
 
 body {
-    font-family: 'Raleway', sans-serif;
+font-family: 'Lato', sans-serif;
 }
 
 h1 {
     font-size: 50px;
+}
+
+h3 {
+    font-weight: bold;
 }
 
 
