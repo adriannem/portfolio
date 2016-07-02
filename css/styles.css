@@ -19,6 +19,7 @@
     width: 100%;
     display: -webkit-flex;
     display: flex;
+    flex-flow: row;
 }
 
 img.hero {
