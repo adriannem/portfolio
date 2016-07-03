@@ -11,7 +11,7 @@ Website built with HTML and CSS.
 ## Setup/Installation Requirements
 
 * _git clone_
-* _cd final_project_
+* _cd practice_portfolio_site_
 * _open index.html in Google Chrome_
 * _or you can simply view the site online by [clicking here](http://adriannem.github.io/practice-portfolio-site/)_
 
